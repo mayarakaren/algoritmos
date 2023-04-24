@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651278939 source:c:\users\aluno\desktop\luiz lopes - apaga n√o com…dia\logica\exemplo_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
